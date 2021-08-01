@@ -1,4 +1,4 @@
-import EventEmitter from 'events';
+import { EventEmitter } from 'events';
 
 /**
  * Dummy implementation of Storage interface.
